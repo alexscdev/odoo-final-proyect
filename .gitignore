@@ -85,4 +85,4 @@ ChangeLog
 
 
 # Conf Odoo
-*.conf
+odoo.conf
