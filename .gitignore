@@ -82,3 +82,7 @@ ChangeLog
 
 # Visual Studio
 *.code-workspace
+
+
+# Conf Odoo
+*.conf
