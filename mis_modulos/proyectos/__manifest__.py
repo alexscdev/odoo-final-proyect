@@ -6,8 +6,8 @@
     'depends': ['base'],
     'author': 'alexsc.dev',
     'category': 'Proyectos',
-    'description': 'Descripción larga del módulo 00',
-    'summary': 'Descripción corta del módulo 00',
+    'description': 'Modulo de gestion de proyectos DIY',
+    'summary': 'Descripción corta del módulo DIY',
     'data': [
         # Aquí van tus archivos XML, CSV, etc.
     ],
